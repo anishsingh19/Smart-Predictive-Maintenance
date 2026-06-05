@@ -1,6 +1,9 @@
 # ⚙️ Hybrid Predictive Maintenance System
 
-This project is a multi-page Streamlit web application that demonstrates a hybrid predictive maintenance system. It uses a combination of supervised learning and multi-agent reinforcement learning to predict machine health and recommend optimal maintenance actions.
+This project is a multi-page Streamlit web application that demonstrates a hybrid predictive maintenance system. It uses a combination of supervised learning and multi-agent reinforcement learning.
+
+## 🔗 Live Application
+[Smart Predictive Maintenance App](https://smart-predictive-maintenance.streamlit.app/)
 
 ## Features
 
